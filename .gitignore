@@ -1,0 +1,9 @@
+*.project
+*.classpath
+target/classes/rebel.xml
+src/main/resources/rebel.xml
+.springBeans
+.aside
+.settings/org.eclipse.core.resources.prefs
+*.prefs
+target/classes/META-INF/maven/org.springframework.samples/lit-transmit/pom.properties
