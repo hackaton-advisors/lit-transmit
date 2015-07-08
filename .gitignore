@@ -6,4 +6,7 @@ src/main/resources/rebel.xml
 .aside
 .settings/org.eclipse.core.resources.prefs
 *.prefs
-target/classes/META-INF/maven/org.springframework.samples/lit-transmit/pom.properties
+target/**
+target/*.*
+target/*
+target/classes/META-INF/maven/org.springframework.samples/lit-transmit/pom.xml
